@@ -1,2 +1,2 @@
 # graphql-express
-A simple express applcation fetching data with GraphQL
+A simple express application fetching data with GraphQL
